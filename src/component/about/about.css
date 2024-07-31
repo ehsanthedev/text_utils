@@ -1,0 +1,14 @@
+:root{
+    --background : #070B4A;
+    --btn : #404C77;
+    --text : #E0E2FF
+}
+.bg-color{
+    background-color: var(--background);
+}
+.btn-color{
+    background-color: var(--btn) !important;
+}
+.text-color{
+    color: var(--text);
+}

@@ -1,0 +1,15 @@
+:root{
+    --navbar : #04072C;
+    --background : #070B4A;
+    --btn : #404C77;
+    --text : #E0E2FF
+}
+.bg-color{
+    background-color: var(--background) !important;
+}
+.text-color{
+    color: var(--text) !important;
+}
+.navbar-color{
+    background-color: var(--navbar) !important;
+}
